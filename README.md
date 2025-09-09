@@ -18,4 +18,6 @@ The LEDs cycle through (Green → Yellow → Red → Green) with delays.
 ##Code
 See 'TrafficLights.ino' for full code.
 
+##Circuit 
+See 'Circuit.png' for the diagram.
 
