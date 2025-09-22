@@ -5,8 +5,11 @@ I built & tested it on a simulator (Tinkercad).
 
 ## Components:
 -Arduino Uno
+
 -3 LEDs (Green, Yellow, Red)
+
 -220 ohms resistors
+
 -Jumper wires + Breadboard
 
 ## How It Works
